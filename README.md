@@ -1,2 +1,2 @@
 **  DOM calculator **   
-* published link[https://haneeshcalci.netlify.app/](LINK)
+* published link[LINK](https://haneeshcalci.netlify.app/)
